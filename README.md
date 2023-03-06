@@ -1,5 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/105439855/214145585-7478768c-b383-460b-958a-0a33ee9eaef0.png)
+
+![image](https://user-images.githubusercontent.com/122832232/223120834-8886744d-19d6-470c-9638-39a6b1b0cdfd.png)
 ```
 "Simplicity is the ultimate sophistication."
 ```
