@@ -5,4 +5,3 @@
 Coding is fun when you don't run into bugs :)
 
 ```
-- 📫 How to reach me Fridayblessed221@gmail.com
