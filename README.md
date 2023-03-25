@@ -7,6 +7,8 @@
 ```
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fridayblessed007&show_icons=true&locale=en&bg_color=0D1117" alt="Fridayblessed007" /></p>
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Fridayblessed007&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fridayblessed007&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fridayblessed007&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fridayblessed007&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="Fridayblessed007" /></p>
