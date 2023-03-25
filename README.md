@@ -1,10 +1,6 @@
 
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1363DF&multiline=true&width=600&lines=Hi,+👋🏽+I'm+Friday+Blessed." alt="Typing SVG" /></a></h1>
 
-```
- Coding is fun when you don't run into bugs. 🪲 
-
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
