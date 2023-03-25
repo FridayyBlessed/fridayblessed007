@@ -2,6 +2,20 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1363DF&multiline=true&width=600&lines=Hi,+👋🏽+I'm+Friday+Blessed." alt="Typing SVG" /></a></h1>
 
 
+
+
+
+## 🙋 About Me
+
+- 🔭 I’m currently working on **projects with C, CSS, HTML, Javascript, and Python**
+
+- 🌱 I’m currently learning more of **C and Python**
+
+- 👯 I’m open to collaborate on **projects with other developers**
+
+- 📫 How to reach me **Fridayblessed221@gmail.com**
+
+- ⚡ Fun fact **Nothing good comes easy**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
