@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning more of **C and Python**
 
-- 👯 I’m open to collaborate on **projects with other developers**
-
 - 📫 How to reach me **Fridayblessed221@gmail.com**
 
 - ⚡ Fun fact **Nothing good comes easy**
