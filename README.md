@@ -7,11 +7,11 @@
 	<br>
 </p>
  
-
+<h3 align="center">A passionate web developer from  Nigeria.</h3>
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **projects with C, CSS, HTML, Javascript, and Python**
+- 🔭 I’m currently working on **projects with C, CSS, HTML, and Python**
 
 - 🌱 I’m currently learning more of **C and Python**
 
