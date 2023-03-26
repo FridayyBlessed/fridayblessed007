@@ -9,7 +9,7 @@
 </p>
  
 
-## 🙋 About Me
+## 🙋 About Me.
 
 - 🔭 I’m currently working on **projects with C, CSS, HTML, and Python**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Fridayblessed221@gmail.com**
 
-- ⚡ Fun fact **Nothing good comes easy**
+- ⚡ Fun fact **Nothing good comes easy.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
