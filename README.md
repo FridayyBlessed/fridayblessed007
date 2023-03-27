@@ -11,11 +11,9 @@
 	<br>
 </p>
  
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!&left=true&size=20">
 </p>
 <p align="center">
 </p>
-
 
 
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1363DF&multiline=true&width=600&lines=Hi,+👋🏽+I'm+Friday+Blessed." alt="Typing SVG" /></a></h1>
