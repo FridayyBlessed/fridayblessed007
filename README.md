@@ -4,8 +4,6 @@
 </p>
 <h1
 
-<h2 align="center">A Passionate  Developer From  Nigeria.</h2>
-
 <p  align='left'>
 	<img alt="Coding" width='400'src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif'></img>
 	<br>
@@ -17,6 +15,9 @@
 
 
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1363DF&multiline=true&width=600&lines=Hi,+👋🏽+I'm+Friday+Blessed." alt="Typing SVG" /></a></h1>
+<h3 align="center">A passionate  developer from Nigeria.</h3>
+
+
 ## 🙋 About Me.
 
 - 🔭 I’m currently working on **projects with C, CSS, HTML, and Python**
