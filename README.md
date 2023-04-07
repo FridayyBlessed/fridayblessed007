@@ -38,7 +38,9 @@
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/Fridayblessed007?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
     </a>
-</div><br>
+</div>
+
+
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Fridayblessed007&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fridayblessed007&theme=highcontrast&hide_border=false)<br/>
