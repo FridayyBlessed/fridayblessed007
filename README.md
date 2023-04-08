@@ -20,11 +20,11 @@
 
 ## 🙋 About Me.
 
-- 🔭 I’m currently working on **projects with C, CSS, HTML, and Python**
+- 🔭 I’m currently working on **projects with C, CSS, HTML, and Python.**
 
-- 🌱 I’m currently learning more of **C and Python**
+- 🌱 I’m currently learning more of **C and Python.**
 
-- 📫 How to reach me **Fridayblessed221@gmail.com**
+- 📫 How to reach me **Fridayblessed221@gmail.com.**
 
 - ⚡ Fun fact **Nothing good comes easy.**
 <h3 align="left">Connect with me:</h3>
