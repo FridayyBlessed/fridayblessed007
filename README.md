@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **projects with  CSS, HTML, and Python.**
 
-- 🌱 I’m currently learning more of **C and Python.**
+- 🌱 I’m currently learning more of **Python.**
 
 - 📫 How to reach me **Fridayblessed221@gmail.com.**
 
