@@ -26,4 +26,4 @@
 - 📫 How to reach me **Fridayblessed221@gmail.com.**
 
 - ⚡ Fun fact - **Nothing good comes easy.**
-- please follow my new Github account Blessedfriday007@github.com
+- please follow my new [Github account](Blessedfriday007@github.com)
