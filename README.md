@@ -8,7 +8,7 @@
 	<img alt="Coding" width='400'src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif'></img>
 	<br>
 </p>
- <p>Please follow my new active [github account](https://github.com/Blessedfriday007)</p>
+ 
 
 <p align="center">
 </p>
